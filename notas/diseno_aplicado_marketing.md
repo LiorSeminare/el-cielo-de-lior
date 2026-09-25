@@ -1,32 +1,31 @@
-# Diseño aplicado al marketing — teoría base
-Notas de Lior, 25 sep 2026. Para presentar mejor los productos.
+# Diseño aplicado al marketing — apuntes (con fuente real)
+Lior, 25 sep 2026.
 
-## 1. Jerarquía visual
-El ojo entra por UN punto. Ordenar: qué se ve primero (título/producto), segundo (beneficio), tercero (acción).
-Tamaño, peso y color crean la jerarquía; si todo destaca, nada destaca.
+## El marco: C.R.A.P. / P-A-R-C
+Fuente: Robin Williams, "The Non-Designer's Design Book" (1994). Cuatro principios de diseño para no diseñadores: Contraste, Repetición, Alineación, Proximidad. Resumen leído en Presentation Zen y Wiredcraft (links abajo).
 
-## 2. Contraste
-- Texto sobre imagen: el texto necesita un fondo con contraste (scrim: capa oscura/gradiente detrás de la letra). Ya lo uso en banners; es teoría, no suerte.
-- El elemento más importante es el que tiene MAYOR contraste con su entorno.
+### Proximidad
+Los elementos que se relacionan van JUNTOS; los que no, separados. Agrupar por significado: título del producto junto al producto, precio junto a qué incluye. Sinonimia visual = lectura automática.
 
-## 3. Espacio en blanco
-El espacio vacío NO es desperdicio: agrupa, respira, hace legible. Páginas apretadas se leen menos. Menos elementos = más foco.
+### Alineación
+NADA al azar: cada elemento se alinea con otro. Una sola retícula por pieza. Los bordes alineados dan orden aunque la gente no sepa por qué lo ve ordenado.
 
-## 4. Tipografía
-- Máximo 2 familias por pieza. Jerarquía por tamaño/peso, no por más fuentes.
-- En miniatura: título debe leerse a tamaño chico; probar la imagen reducida antes de publicar.
+### Repetición
+Repetir elementos visuales (color, tipografía, forma) a través de las piezas unifica la identidad. Mi tienda debería repetir la misma paleta y tipografía en post, miniatura y portada de PDF.
 
-## 5. Color
-- 60-30-10: color dominante, secundario, acento. El acento (10%) marca lo que quiero que miren.
-- Paleta coherente entre post, listing y producto = identidad.
+### Contraste
+"Si dos items no son exactamente iguales, hazlos REALMENTE diferentes" (Robin Williams). Contraste en tamaño, peso, color. Texto sobre foto necesita scrim (capa oscura detrás) — lo que ya aplicaba a los banners, ahora con nombre y teoría.
 
-## 6. Composición
-- Regla de tercios: puntos de interés fuera del centro exacto.
-- Líneas y miradas del sujeto dirigen hacia el foco deseado.
-- Para la primera foto de un listing: producto completo, legible en chico, con un solo mensaje.
+## Composición extra
+- Regla de tercios: focos fuera del centro exacto.
+- Espacio en blanco: no es desperdicio, agrupa y respira.
+- Máximo 2 tipografías por pieza; jerarquía por tamaño/peso.
+- Test de miniatura: reducir la imagen al tamaño chico real; si el título no se lee, falló.
 
-## 7. Detalles que detienen
-Lo que hace que alguien pare no es más información, es UN detalle: un encuadre, un dato en el borde, una textura. Elegir uno por pieza.
+## Aplicación concreta a mí
+Cada listing: (1) primera imagen legible en chico con UN mensaje, (2) misma paleta en todo, (3) título con contraste real, (4) un solo detalle que detenga el scroll por pieza.
 
----
-Aplicar a: miniaturas, portadas de PDF, primera imagen de cada listing, post de Bluesky.
+## Fuentes
+- Robin Williams, The Non-Designer's Design Book (1994).
+- Presentation Zen, "Design Fundamentals: Contrast, Repetition, Alignment, Proximity" — https://presentationzen.com/blog/design-fundamentals-contrast-repetition-alignment-proximity
+- Wiredcraft, "Robin Williams' four basic design principles for non-designers" — https://wiredcraft.com/blog/robin-williams-four-basic-design-principles-for-non-designers
